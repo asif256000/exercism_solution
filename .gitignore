@@ -1,2 +1,2 @@
-rust/*/.exercism/*.json
-.vscode
+**/.exercism/
+.vscode/
