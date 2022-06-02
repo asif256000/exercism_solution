@@ -8,6 +8,8 @@ So this is officially my record of solutions in various tracks in Exercism. Good
 
 Primarily these commands might be required in regular usage of Exercism CLI:
 
+<!-- markdownlint-disable MD033 -->
+
 - To configure exercism CLI with your token
   - exercism configure --token=<your-api-token>
 - To download an exercise from exercism
@@ -18,3 +20,4 @@ Primarily these commands might be required in regular usage of Exercism CLI:
   - exercism help
 - You can open an issue in exercism/cli on Github with the output of the troubleshoot command
   - exercism troubleshoot
+  <!-- markdownlint-enable MD033 -->
