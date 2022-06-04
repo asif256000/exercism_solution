@@ -1,2 +1,11 @@
-**/.exercism/
+# general
+.exercism/
 .vscode/
+
+# rust
+debug/
+target/
+# not required to ignore in case of libraries
+Cargo.lock 
+**/*.rs.bk
+*.pdb
