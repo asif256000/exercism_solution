@@ -1,4 +1,8 @@
-# Learning Rust
+# Learning new things with Exercism
+
+> In the end we retain from our studies only that which we practically apply.
+>
+> --- Johann Wolfgang von Goethe
 
 I was trying to learn Rust, and came to know about [Exercism](https://exercism.org/) and been loving it.
 
