@@ -16,6 +16,8 @@ Primarily these commands might be required in regular usage of Exercism CLI:
 
 - To configure exercism CLI with your token
   - exercism configure --token=<your-api-token>
+- To configure exercism workspace
+  - exercism configure --workspace=<your-workspace-path>
 - To download an exercise from exercism
   - exercism download --exercise=<exercise-slug> --track=<track-slug>
 - To submit the solution once it is complete
